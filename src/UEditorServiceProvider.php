@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Overtrue\LaravelUEditor;
+namespace Bwibt\LaravelUEditor;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\Facades\Storage;
