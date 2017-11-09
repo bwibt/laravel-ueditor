@@ -1,0 +1,26 @@
+{
+    "name": "bwibt/laravel-ueditor",
+    "description": "UEditor integration for Laravel.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bwibt",
+            "email": "bb13750246146@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "Bwibt\\LaravelUEditor\\":"src/"
+        }
+    },
+    "require-dev": {
+        "fabpot/php-cs-fixer": "^1.10"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bwibt\\LaravelUEditor\\UEditorServiceProvider"
+            ]
+        }
+    }
+}
