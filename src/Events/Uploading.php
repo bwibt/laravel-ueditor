@@ -1,9 +1,9 @@
 <?php
 
 /*
- * This file is part of the overtrue/laravel-ueditor.
+ * This file is part of the bwibt/laravel-ueditor.
  *
- * (c) overtrue <i@overtrue.me>
+ * (c) bwibt <i@bwibt.me>
  *
  * This source file is subject to the MIT license that is bundled
  * with this source code in the file LICENSE.
@@ -19,7 +19,7 @@ use Symfony\Component\HttpFoundation\File\UploadedFile;
 /**
  * Class Uploading.
  *
- * @author overtrue <i@overtrue.me>
+ * @author bwibt <i@bwibt.me>
  */
 class Uploading
 {

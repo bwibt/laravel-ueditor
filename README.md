@@ -9,7 +9,7 @@ UEditor integration for Laravel 5.
 ## 安装
 
 ```shell
-$ composer require "overtrue/laravel-ueditor:~1.0"
+$ composer require "bwibt/laravel-ueditor:~1.0"
 ```
 
 ## 配置
@@ -65,7 +65,7 @@ $ composer require "overtrue/laravel-ueditor:~1.0"
 
 如果你想使用七牛云储存，需要进行下面几个简单的操作：
 
-1.安装和配置 [laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu)
+1.安装和配置 [laravel-filesystem-qiniu](https://github.com/bwibt/laravel-filesystem-qiniu)
 
 2.配置 `config/ueditor.php` 的 `disk` 为 `qiniu`:
 
